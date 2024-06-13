@@ -6,7 +6,8 @@ body{
     text-align: center;
 }
 #artext {
-    background: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red) ;
+    background: linear-gradient(to left,
+    rgb(223, 17, 34), rgb(229, 108, 48), rgb(227, 158, 7), rgb(255, 85, 0), yellow, orange,red);
     background-clip: text;
     display: inline;
     color: transparent;
